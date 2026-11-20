@@ -1,0 +1,52 @@
+{
+  "brand": {
+    "name": "ТЕХНОЛОГИЯ ОАСИС",
+    "tagline": "Discover the origins of Russian words, instantly",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "lookup",
+      "href": "#input-section"
+    },
+    {
+      "key": "results",
+      "href": "#results"
+    },
+    {
+      "key": "contact",
+      "href": "#contact"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "#input-section"
+  },
+  "footerColumns": [
+    {
+      "key": "explore",
+      "links": [
+        { "key": "lookup", "href": "#input-section" },
+        { "key": "results", "href": "#results" },
+        { "key": "contact", "href": "#contact" }
+      ]
+    },
+    {
+      "key": "platform",
+      "links": [
+        { "key": "fullPlatform", "href": "https://oasistechnologysearchenginefeverbetter.zite.so" },
+        { "key": "copyright", "href": "https://xebeoasisncheatraceswistgv.floot.app/" }
+      ]
+    }
+  ],
+  "socialLinks": [],
+  "motion": {
+    "intensity": 4
+  },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}

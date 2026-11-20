@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "home": "Home",
+    "lookup": "Lookup",
+    "results": "Results",
+    "contact": "Contact"
+  },
+  "cta": {
+    "primary": "Start Lookup"
+  },
+  "footer": {
+    "tagline": "Discover the origins of Russian words, instantly",
+    "rights": "All rights reserved.",
+    "columns": {
+      "explore": "Explore",
+      "platform": "Platform"
+    },
+    "links": {
+      "lookup": "Lookup a word",
+      "results": "View results",
+      "contact": "Contact",
+      "fullPlatform": "Full platform",
+      "copyright": "Авторское право © ТЕХНОЛОГИЯ ОАСИС"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Russian word etymology, instantly",
+      "title": "Trace any Russian word back to its roots",
+      "subtitle": "Type or paste a Russian word and see where it truly comes from: the language it descends from, its original root meaning, and the words it's related to today.",
+      "primaryCta": "Look up a word",
+      "secondaryCta": "Visit full platform",
+      "previewLabel": "Sample breakdown",
+      "previewHint": "Try it yourself below"
+    },
+    "lookup": {
+      "eyebrow": "Lookup",
+      "title": "Type or paste a Russian word",
+      "subtitle": "Enter one or more Russian words, separated by spaces or commas. Works with your keyboard or a pasted block of text.",
+      "placeholder": "e.g. хлеб, любовь, дорога",
+      "button": "Find origin",
+      "pasteHint": "Typing and pasting (Ctrl+V) are both supported, on desktop and mobile.",
+      "examplesLabel": "Or try one of these",
+      "examples": [
+        "хлеб",
+        "семья",
+        "любовь",
+        "медведь",
+        "спасибо",
+        "дорога"
+      ]
+    },
+    "results": {
+      "eyebrow": "Results",
+      "title": "Word origin breakdown",
+      "subtitle": "Each result traces the word through its historical language family, its earliest reconstructed root, and words it shares that root with.",
+      "fieldOrigin": "Language of origin",
+      "fieldRoot": "Root meaning",
+      "fieldRelated": "Related words",
+      "emptyTitle": "No word searched yet",
+      "emptyBody": "Enter a Russian word above, or pick one of the examples, to see its etymology here.",
+      "notFoundTitle": "Not in the demo set",
+      "notFoundBody": "This demo covers a handful of words. Try one of the examples above, or visit the full platform for the complete dictionary."
+    },
+    "features": {
+      "eyebrow": "Why it helps",
+      "title": "Built for people who are curious about words",
+      "subtitle": "Whether you are learning Russian or just fascinated by language history, every lookup gives you more than a dictionary definition.",
+      "items": [
+        {
+          "title": "Instant breakdown",
+          "description": "Get the origin language, root meaning, and related words the moment you submit a word, no manual research required."
+        },
+        {
+          "title": "Proto-Slavic and beyond",
+          "description": "Many results trace back past Old East Slavic into Proto-Slavic and Proto-Indo-European reconstructions."
+        },
+        {
+          "title": "Cognate words included",
+          "description": "See modern Russian words that share the same root, so you can spot patterns across vocabulary you already know."
+        }
+      ]
+    },
+    "howItWorks": {
+      "eyebrow": "How it works",
+      "title": "From keystroke to word history",
+      "subtitle": "Three simple steps turn a single word into its full linguistic story.",
+      "steps": [
+        {
+          "title": "Type or paste",
+          "description": "Enter a Russian word using your keyboard, or paste a word straight from another document or site."
+        },
+        {
+          "title": "We trace the root",
+          "description": "The word is matched against its historical form and traced back through its language family."
+        },
+        {
+          "title": "Read the full story",
+          "description": "See the origin language, the earliest root meaning, and the related words it left behind in modern Russian."
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Способы связи",
+      "subtitle": "Have a question about a word, or feedback on a result? Reach out directly.",
+      "emailLabel": "Почта",
+      "linkLabel": "Full platform",
+      "linkHint": "The complete search engine, with its full word dictionary, lives at the link below.",
+      "linkButton": "Open full platform"
+    },
+    "cta": {
+      "title": "Curious about another word?",
+      "subtitle": "Scroll back up and look up as many Russian words as you like. There is no limit on a single session.",
+      "button": "Look up a word"
+    }
+  }
+}
